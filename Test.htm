@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="js/HexagonTools.js"></script>
+<script type="text/javascript" src="js/Grid2.js"></script>
+</head>
+<body>
+<canvas id="hexCanvas" />
+<script type="text/javascript">
+function drawHexGrid(width, height, margin)
+{
+	var grid = new HT.Grid(width, height, margin);
+	var canvas = document.getElementById("hexCanvas");
+	canvas.width = width;
+	canvas.height = height;
+	var ctx = canvas.getContext('2d');
+	ctx.clearRect(0, 0, width, height);
+	for(var h in grid.Hexes)
+	{
+		grid.Hexes[h].draw(ctx);
+	}
+	var img = canvas.toDataURL("image/png");
+	document.write('<img src="'+img+'"/>');
+}
+
+function calculateLengthOfSide(width, height)
+{
+	//solve quadratic
+	var a = -3.0;
+	var b = (-2.0 * width);
+	var c = (Math.pow(width, 2)) + (Math.pow(height, 2));
+	
+	var z = (-b - Math.sqrt(Math.pow(b,2)-(4.0*a*c)))/(2.0*a);	
+	return z;
+}
+
+function calculateCanvasHeight(height, margin, rows){
+
+}
+
+function calculateCanvasHeight(width, columns){
+
+}
+
+function setValuesByHeight(height){
+	height = parseFloat(height);
+	var ratioOfRegularHexagonWidthToHeight = Math.sqrt(3)/2.0;
+	var width = height / ratioOfRegularHexagonWidthToHeight;
+	var z = calculateLengthOfSide(width, height);
+
+	//console.log('h:' + height + ' w:' + width + ' z:' + z);
+
+	HT.Hexagon.Static.WIDTH = width;
+	HT.Hexagon.Static.HEIGHT = height;
+	HT.Hexagon.Static.SIDE = z;
+	//HT.Hexagon.Static.ORIENTATION = HT.Hexagon.Orientation.Rotated;
+}
+
+setValuesByHeight(80);
+drawHexGrid(820, 1050, 10);
+</script>
+</body>
+</html>

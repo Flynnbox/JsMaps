@@ -1,0 +1,899 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"drawSprite"
+			],
+			[
+				"dr",
+				"drawBoard"
+			],
+			[
+				"sp",
+				"spriteFilePath"
+			],
+			[
+				"load",
+				"loadCount"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"im",
+				"imageFilePathArray"
+			],
+			[
+				"image",
+				"loadImage"
+			],
+			[
+				"draw",
+				"drawImage"
+			],
+			[
+				"cre",
+				"createSpriteProvider"
+			],
+			[
+				"i",
+				"imageFilePath"
+			],
+			[
+				"start",
+				"startY"
+			],
+			[
+				"tr",
+				"traps"
+			],
+			[
+				"ps",
+				"positionsY"
+			],
+			[
+				"pos",
+				"positionsY"
+			],
+			[
+				"p",
+				"piece"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"complet",
+				"Completely"
+			],
+			[
+				"Working",
+				"WorkingDaysPerYear"
+			],
+			[
+				"Su",
+				"SurveyGuid"
+			],
+			[
+				"survey",
+				"surveyGuid"
+			],
+			[
+				"is",
+				"IsCompleted"
+			],
+			[
+				"Sur",
+				"surveyGuid"
+			],
+			[
+				"iS",
+				"IsCompleted"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Test.htm",
+			"settings":
+			{
+				"buffer_size": 1526,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/Grid2.js",
+			"settings":
+			{
+				"buffer_size": 4230,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/HexagonTools.js",
+			"settings":
+			{
+				"buffer_size": 6781,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Chrome.sublime-build",
+	"command_palette":
+	{
+		"height": 81.0,
+		"selected_items":
+		[
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"form",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package con	",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"set jso",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install	",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/aflynn/Documents/GitHub/HexMap/js/HexCalcs.js",
+		"/C/Users/aflynn/Documents/GitHub/HexMap/hexagongridtools.html",
+		"/C/Users/aflynn/Downloads/mkhexgrid-0.1.1/hex-spec-png1.txt",
+		"/C/Users/aflynn/Downloads/mkhexgrid-0.1.1/hex-spec.txt",
+		"/C/Users/aflynn/Downloads/mkhexgrid-0.1.1/hex-spec-png2.txt",
+		"/C/Users/aflynn/Documents/GitHub/HexMap/hexagontools.html",
+		"/C/Users/aflynn/Downloads/mkhexgrid-specification.txt",
+		"/C/Users/aflynn/Documents/GitHub/HexMap/drawHex.js",
+		"/C/Users/aflynn/Documents/GitHub/HexMap/grid.js",
+		"/C/Users/aflynn/Documents/GitHub/HexMap/js/HexagonTools.js",
+		"/C/Users/aflynn/Documents/Development/IHI Notes.txt",
+		"/C/Users/aflynn/Documents/Development/ERP/Insight/Insight Development Notes.txt",
+		"/C/Users/aflynn/Documents/Development/LMS/LMS Mobile App Notes.txt",
+		"/C/Users/aflynn/Documents/Development/To Do.txt",
+		"/C/IHI_MAIN/trunk/Common/Utility/Utility/NameValueCollectionExtensions.cs",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/INSIGHT_2012-10-30.0",
+		"/C/Users/aflynn/Documents/Development/ERP/Insight/Insight Meeting Notes.txt",
+		"/C/IHI_MAIN/trunk/PowerShell/Main/BuildDeploy/Configs/Libraries/eDefine_CustSecModule.xml",
+		"/C/Users/aflynn/Documents/Development/Insight/StaffDepartmentAndSupervisors-LoadData.sql",
+		"/C/IHI_MAIN/trunk/Common/Utility/Profiles/UserProfilesDALC.cs",
+		"/C/IHI_MAIN/trunk/Common/Utility/Profiles/UserProfile.cs",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/INSIGHT_2012-10-29.0",
+		"/C/IHI_MAIN/trunk/Insight/_Config_IHI/APP.IHI.ORG/Web.config",
+		"/C/Users/aflynn/Documents/Development/Insight/Insight-UserDetailLoad Script.sql",
+		"/C/IHI_MAIN/trunk/Database/IHI/StoredProcedures/Insight/vw_ins_MonthlyPersonnelBudgetTotal.viw",
+		"/C/IHI_MAIN/trunk/Database/IHI/StoredProcedures/Insight/vw_ins_FiscalYearPersonnelBudgetTotal.viw",
+		"/C/IHI_MAIN/trunk/LMS/_Config_IHI/APP.IHI.ORG/Web.config",
+		"/C/LogFiles/IhiLogs/INSIGHT_2012-10-25.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/INSIGHT_2012-10-25.0",
+		"/C/IHI_MAIN/trunk/LMS/UIWeb/LMSMain.Master",
+		"/C/temp/LMSAPI_2012-10-24.0",
+		"//DAA10197WWW006/d$/InetPub/IHI.org/LMSAPI/Web.config",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/Api/PagesController.cs",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/ViewModels/LessonPageUpdate.cs",
+		"/C/IHI_MAIN/trunk/MobileApps/OpenSchoolMobile/appfiles/includes/js/settings.js",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/Offerings/Models/Schedule.cs",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/Offerings/Models/UserOffering.cs",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/ViewModels/Sharepoint/ListItem.cs",
+		"/C/IHI_MAIN/trunk/eDefine/eDefine.Framework.Profiles/ProfileInstanceData.cs",
+		"/C/LogFiles/IhiLogs/INSIGHT_2012-10-23.0",
+		"/C/IHI_MAIN/trunk/PowerShell/Main/BuildDeploy/Configs/WebApplication/LMS.xml",
+		"/C/IHI_MAIN/trunk/PowerShell/Main/BuildDeploy/Configs/WebApplication/Insight.xml",
+		"/C/IHI_MAIN/trunk/Webroot/_Config_IHI/APP.IHI.ORG/Web.config",
+		"/C/IHI_MAIN/trunk/Webroot/wwwroot/Web.config",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-19.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-21.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-20.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-22.0",
+		"/C/IHI_MAIN/trunk/Database/IHI/CreateScripts/Insight/CreateDatabaseInsight.sql",
+		"/C/IHI_MAIN/trunk/CertificateCenter/WebSupportFiles/IHI/general.xslt",
+		"/C/IHI_MAIN/trunk/CertificateCenter/WebSupportFiles/general.xslt",
+		"/C/IHI_MAIN/trunk/Database/IHI/StoredProcedures/Test/dbo.test_lmsGetPostAssessmentAnswers.prc",
+		"/C/temp/LMSAPI_2012-10-18.0",
+		"//DEVAPPWEB/d$/Logfiles/IHILogs/LMSAPI_2012-10-18.0",
+		"/C/temp/Michael Iantosca Error 2012-10-18",
+		"/C/IHI_MAIN/trunk/PowerShell/Main/BuildDeploy/Configs/WebApplication/LMSAPI.xml",
+		"/C/temp/LMSAPI_2012-10-17.0 - debug.0",
+		"/C/temp/LMSAPI_2012-10-14.0",
+		"/C/temp/LMSAPI_2012-10-16.0",
+		"/C/temp/LMSAPI_2012-10-15.0",
+		"/C/temp/LMSAPI_2012-10-17 - LessonNotValidForCompletion_3.txt",
+		"/C/temp/LMSAPI_2012-10-17.0",
+		"/C/Users/aflynn/Desktop/LMSAPI_2012-10-15-RachelBissonet",
+		"/C/Users/aflynn/Desktop/LMSAPI_2012-10-15.csv",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-16.0",
+		"/C/IHI_MAIN/trunk/PowerShell/Main/Modules/PSCX/Modules/Wmi/Pscx.Wmi.psm1",
+		"/C/Users/aflynn/Documents/Development/LMSAPI_2012-10-12.0",
+		"/C/Users/aflynn/Desktop/LMSAPI-Errors-2012-10-12",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-15.0",
+		"/C/IHI_MAIN/trunk/MobileApps/OpenSchoolMobile/appfiles/includes/js/common.js",
+		"//DEVAPPWEB/d$/Logfiles/IHILogs/LMS_2012-10-01.0",
+		"/C/Users/aflynn/Desktop/LessonNotValid-formatted.txt",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMS_2012-10-12.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-12.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/insight_2012-10-11.0",
+		"/C/Users/aflynn/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"//DAA10197WWW006/d$/InetPub/IHI.org/Insight/Web.config",
+		"/C/Users/aflynn/Documents/WindowsPowerShell/Modules/Get-IhiLog.psm1",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMS_2012-10-11.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-11.0",
+		"/C/Users/aflynn/Documents/Development/Scripts/Get-IhiLog.txt",
+		"/C/Users/aflynn/Documents/Development/Scripts/lmsDeploySql.ps1",
+		"/C/Users/aflynn/Documents/Development/Scripts/SearchProductionLogFiles.ps1",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/Offerings/Models/SessionItem.cs",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/Offerings/Models/SessionDetail.cs",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/Offerings/Models/Material.cs",
+		"/C/Users/aflynn/Documents/Development/Scripts/Get-AppPoolSize.ps1",
+		"/C/Users/aflynn/Documents/Development/Scripts/Insert-KeyMap.ps1",
+		"/C/temp/Department.csv",
+		"/C/Users/aflynn/Documents/Development/ERP/Insight/Departments.txt",
+		"/C/IHI_MAIN/trunk/Insight/_Config_IHI/DEVAPPWEB/Web.config",
+		"/C/Users/aflynn/Desktop/Annual Engineering Tea.TODO",
+		"/C/LogFiles/IhiLogs/INSIGHT_2012-10-10.0",
+		"//devappweb/d$/Logfiles/IHILogs/LMSAPI_2012-10-10.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-10.0",
+		"/C/IHI_MAIN/trunk/Insight/_Config_IHI/TESTAPPWEB/Web.config",
+		"//devappweb.ihi.com/d$/Inetpub/IHI.org/Insight/Web.config",
+		"/C/Users/aflynn/Documents/GitHub/Arimaa/Sandbox/arimaa.js",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/INSIGHT_2012-10-09.0",
+		"/C/LogFiles/IhiLogs/INSIGHT_2012-10-09.0",
+		"/C/IHI_MAIN/trunk/Database/IHI/StoredProcedures/Insight/vw_ins_ProjectPersonnelBudget.viw",
+		"/C/IHI_MAIN/trunk/Database/IHI/StoredProcedures/Insight/vw_ins_ProjectPersonnelBudgetAndActual.viw",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/INSIGHT_2012-10-05.0",
+		"/C/LogFiles/IhiLogs/INSIGHT_2012-10-05.0",
+		"/C/IHI_MAIN/trunk/Database/IHI/StoredProcedures/Insight/vw_ins_Staff.viw",
+		"/C/IHI_MAIN/trunk/Database/IHI/StoredProcedures/Insight/vw_ins_timeMonthlyEmployeeTimesheetData.viw",
+		"/C/IHI_MAIN/trunk/Database/IHI/StoredProcedures/Insight/vw_ins_TimeAccount.viw",
+		"/C/IHI_MAIN/trunk/Database/IHI/ChangeScripts/Insight/2012_05_04_UserDetailLoadData.sql",
+		"/C/IHI_MAIN/trunk/Database/IHI/ChangeScripts/Insight/2012_10_02_InsertDefaultValues.sql",
+		"/C/IHI_MAIN/trunk/Database/IHI/ChangeScripts/Insight/2012_10_05_InsertNewProjectRoles.sql",
+		"/C/IHI_MAIN/trunk/Database/IHI/ChangeScripts/Insight/2012_04_30_UpdateUserDetail.sql",
+		"/C/temp/Staff2.csv",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/Offerings/Models/OfferingData.cs",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/ViewModels/CourseDetail.cs",
+		"/C/Users/aflynn/Documents/Development/LMS/Mobile/json-sample-certificates.js",
+		"/C/IHI_MAIN/trunk/LMS/MobileLMS/Api/CertificatesController.cs",
+		"/C/LogFiles/IhiLogs/LMSAPI_2012-10-04.0",
+		"//devappweb/d$/Logfiles/IHILogs/LMSAPI_2012-10-03.0",
+		"/C/Users/aflynn/Documents/Development/LMS/SQL/Find User With Active Catalog Subscription From CatalogGuid.sql",
+		"/C/LogFiles/IhiLogs/LMSAPI_2012-10-03.0",
+		"//DAA10197WWW006/d$/Logfiles/IHILogs/LMSAPI_2012-10-02.0",
+		"//DAA10197WWW006/d$/InetPub/IHI.org/LMSAPI/Verify.htm",
+		"/C/Users/aflynn/Downloads/Fonts/digitalreadout/Readme.txt",
+		"//devappweb/d$/Logfiles/IHILogs/LMSAPI_2012-10-02.0",
+		"//devappweb.ihi.com/d$/Inetpub/IHI.org/LMSAPI/Verify.htm",
+		"//devappweb.ihi.com/d$/Inetpub/IHI.org/LMSAPI/Web.config",
+		"//TESTAPPWEB/d$/Logfiles/IHILogs/INSIGHT_2012-10-02.0",
+		"/C/Users/aflynn/Documents/Development/FindChangeScriptsDeltas.sql"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"",
+			"<open folders>",
+			"C:\\ihi_main\\trunk\\Database\\IHI\\ChangeScripts\\LMS"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"PathCoOrdY",
+			"height",
+			"width",
+			"offset",
+			"y",
+			"findHexWithWidthAndHeight",
+			"getHexGridWH",
+			"HT.Hexagon",
+			"applicationerror@ihi.org",
+			"AF09A462-4037-11D3-951A-00C026808B0C|GUEST Account|ihiauth4|038FB",
+			"AF09A462-4037-11D3-951A-00C026808B0C|GUEST Account|ihiauth4",
+			"AF09A462-4037-11D3-951A-00C026808B0C|GUEST Account",
+			"AF09A462-4037-11D3-951A-00C026808B0C|GUEST",
+			"AF09A462-4037-11D3-951A-00C026808B0C",
+			"ERROR",
+			"numer",
+			" - UserGuid af09a462-4037-11d3-951a-00c026808b0c",
+			"Score As",
+			" - UserGuid af09a462-4037-11d3-951a-00c026808b0c",
+			" - UserGuid (?!af09a462-4037-11d3-951a-00c026808b0c)",
+			"UserGuid (?!af09a462-4037-11d3-951a-00c026808b0c)",
+			"ERROR",
+			"A922FB75-1657-4F98-A85B-CB5D8400C03C",
+			"1A9A70B2-7A7B-4DCD-A73B-90F85EDD1272",
+			"Lesson is not valid|Score Assessment",
+			"DEBUG",
+			"Lesson is not valid",
+			"catalogGuid=b87aa05f-c19e-48b8-81c6-2650aa574be0&courseGuid=60967fa6-4642-4f33-9ec2-60083d52d0fe&lessonGuid=e1930994-4c3b-4211-87be-fa89e814a887&lessonPageGuid=null&operation=start",
+			"Score As",
+			"operation=continue",
+			"operation=Continue",
+			"UserGuid 3638a105-91f3-4a56-92b8-0124c453f6f2",
+			"catalogGuid=b87aa05f-c19e-48b8-81c6-2650aa574be0&courseGuid=60967fa6-4642-4f33-9ec2-60083d52d0fe&lessonGuid=e1930994-4c3b-4211-87be-fa89e814a887&lessonPageGuid=null&operation=start",
+			"UserGuid 3638a105-91f3-4a56-92b8-0124c453f6f2",
+			"catalogGuid=b87aa05f-c19e-48b8-81c6-2650aa574be0&courseGuid=60967fa6-4642-4f33-9ec2-60083d52d0fe&lessonGuid=e1930994-4c3b-4211-87be-fa89e814a887&lessonPageGuid=null&operation=start",
+			"3638a105",
+			"Answer single response question",
+			"Lesson is not valid for completion",
+			"Lesson is not valid for completion|",
+			"Lesson is not valid for completion",
+			"Answer single response question|Lesson is not valid for completion",
+			"Answer single response question",
+			"Lesson is not valid for completion",
+			"Answer",
+			"System.InvalidOperationException: Lesson is not valid for completion|16969b95-97d4-40da-a66b-fa7151b6d95f",
+			"System.InvalidOperationException: Lesson is not valid for completion|D24F0AF8-83D6-40AA-9D64-1369DB2C6C22",
+			"System.InvalidOperationException: Lesson is not valid for completion",
+			"Lesson is not valid for completion",
+			"Request URL:|Response:|UserGuid b244c6d1-aec0-4225-b376-98c88c61f8ab",
+			"b244c6d1-aec0-4225-b376-98c88c61f8ab",
+			"Request URL:|Response:|UserGuid ",
+			"Request URL:|Response:",
+			"Request URL|Response",
+			"Request URL | Response",
+			"b244c6d1-aec0-4225-b376-98c88c61f8ab",
+			"Lesson is not valid for completion",
+			"b244c6d1-aec0-4225-b376-98c88c61f8ab",
+			"Lesson is not valid for completion",
+			"aaa34aa4-c712-480a-8b75-a91cbcf41714",
+			"ERROR",
+			"C51D7E1E-A345-4FAA-A616-641F455B06D3",
+			"/api/",
+			"api/",
+			"\\n(?![0-9]{2}:)",
+			"([0-9]{4}-[0-9]{2}-[0-9]{2}) ([0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3}) (\\[[0-9]+\\]) (.+) ([A-Z]+)  (.+) (\\[\\(null\\)\\]) - (.+)",
+			"([0-9]{4}-[0-9]{2}-[0-9]{2}) ([0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3}) (\\[[0-9]+\\]) (.+) ([A-Z])  (.+) (\\[null\\]) - (.+)",
+			"([0-9]{4}-[0-9]{2}-[0-9]{2}) ([0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3}) (\\[[0-9]+\\]) (.+) ([A-Z]) (.+) (\\[null\\]) - (.+)([0-9]{4}-[0-9]{2}-[0-9]{2}) ([0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3}) (\\[[0-9]+\\]) (.+) ",
+			"([0-9]{4}-[0-9]{2}-[0-9]{2}) ([0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3}) (\\[[0-9]+\\]) (.+) ([A-Z]) (.+) (\\[null\\]) - (.+)([0-9]{4}-[0-9]{2}-[0-9]{2}) ([0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3}) (\\[[0-9]+\\]) (.+) ([A-Z]+) (.+) (\\[null\\]) - (.+)",
+			"([0-9]{4}-[0-9]{2}-[0-9]{2}) ([0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{3}) (\\[[0-9]+\\]) (.+) (.+) (.+) (.+) - (.+)",
+			"([0-9]{4}-[0-9]{2}-[0-9]{2}) ([0-9]{2}:[0-9]{2}:[0-9]{2},[0-9]{4}) (.+) (.+) (.+) (.+) (.+) - (.+)",
+			"([0-9]+-[0-9]+-[0-9]+) (.+) (.+) (.+) (.+) (.+) (.+) - (.+)",
+			"([0-9]-[0-9]-[0-9]) (.+) (.+) (.+) (.+) (.+) (.+) - (.+)",
+			"(.+) (.+) (.+) (.+) (.+) (.+) (.+) - (.+)",
+			"ERROR",
+			"error",
+			"2b2080d4-e44c-432b-a054-2ff838f4f8ad",
+			"cda45dad",
+			"96226F4E-408B-4B0C-A223-7C0DE3A18130",
+			"5D73FD34-9D99-47FE-8D54-5D8E69267F41",
+			"A922FB75-1657-4F98-A85B-CB5D8400C03C",
+			"5D73FD34",
+			"5D73FD34-9D99-47FE-8D54-5D8E69267F41",
+			" +(.+- )",
+			" (.+- )",
+			" (.+-) ",
+			" (.+)- ",
+			" (.*)- ",
+			"pages/Update",
+			" (\\[\\(null\\)\\]) - ",
+			" ([a-z]+)  ",
+			" (\\[[0-9]+\\]) ",
+			"\\s([0-9]+:)",
+			"\\s[0-9]:",
+			" 11:",
+			"48538a2c-eee6-4bec-b799-e674cd081d8d",
+			"starting",
+			"Lesson is not valid for completion",
+			"RequestInfoHandler",
+			"f09a9240",
+			"Lesson is not valid for completion.",
+			"ERROR",
+			"error",
+			"A922FB75-1657-4F98-A85B-CB5D8400C03C",
+			"error",
+			"IhiLogFilePath",
+			"ApplicationLogFileAbbreviationHash",
+			"\\n",
+			",\\n",
+			"'",
+			"\\n",
+			"\\t",
+			"client",
+			"Project_ProjectGuid",
+			"ProjectROle",
+			"([0-9])- ([a-z])",
+			"([0-9])-([0-9])",
+			"([0-9]) - ([a-z])",
+			",",
+			"([0-9]) ([a-z])",
+			"([0-9])-([a-z])",
+			"starting",
+			"00ae0116",
+			"startingprivate static class UnboxT<T>\n        { \n            internal static readonly Converter<object, T> Unbox = Create(typeof(T));\n\n            private static Converter<object, T> Create(Type type)\n            { \n                if (type.IsValueType)\n                { \n                    if (type.IsGenericType && !type.IsGenericTypeDefinition && (typeof(Nullable<>) == type.GetGenericTypeDefinition())) \n                    {\n                        return (Converter<object, T>)Delegate.CreateDelegate( \n                            typeof(Converter<object, T>),\n                                typeof(UnboxT<T>)\n                                    .GetMethod(\"NullableField\", System.Reflection.BindingFlags.Static | System.Reflection.BindingFlags.NonPublic)\n                                    .MakeGenericMethod(type.GetGenericArguments()[0])); \n                    }\n                    return ValueField; \n                } \n                return ReferenceField;\n            } \n\n            private static T ReferenceField(object value)\n            {\n                return ((DBNull.Value == value) ? default(T) : (T)value); \n            }\n \n            private static T ValueField(object value) \n            {\n                if (DBNull.Value == value) \n                {\n                    throw DataSetUtil.InvalidCast(Strings.DataSetLinq_NonNullableCast(typeof(T).ToString()));\n                }\n                return (T)value; \n            }\n \n            private static Nullable<TElem> NullableField<TElem>(object value) where TElem : struct \n            {\n                if (DBNull.Value == value) \n                {\n                    return default(Nullable<TElem>);\n                }\n                return new Nullable<TElem>((TElem)value); \n            }\n        }",
+			"starting",
+			"'([0-9])",
+			"\\n",
+			"www.ihi.org",
+			"([0-9])-([0-9])"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			" ",
+			"$2\\t$4\\t$5\\t$6\\t$8",
+			"$2\\t$4\\t$5\\t$6\\t$7",
+			"\\t$1",
+			"\\t",
+			"\\t$1\\t",
+			"\\t$1",
+			"',\\n'",
+			"\\n",
+			"",
+			",\\n",
+			"'\\n'",
+			"','",
+			"$1,$2",
+			" numeric(5, 2),\\n",
+			"$1 - $2",
+			"update ins_Project set Name = '' where AccountingCode = '$1",
+			"',\\n'",
+			"',\\n,'",
+			"$1', '$2",
+			"$1 ",
+			"$1', '",
+			"$1', '$2",
+			"$0",
+			"$0', '$1",
+			"$0,",
+			"$0",
+			" Unallocated",
+			"'),\\n('",
+			"', '",
+			",\\n",
+			")\\n(",
+			"'\\n'",
+			"'",
+			"' ",
+			"',' ",
+			"'),\\n('",
+			"",
+			"','",
+			"),\\n(",
+			"',\\n'",
+			"'\\n'",
+			"\"\"",
+			"\\\"",
+			" ",
+			"cost",
+			"@catalogGuid",
+			"Project Edit",
+			"'",
+			" - ",
+			"",
+			"LMSAPI",
+			"PROD_",
+			"DAA10197SQL006",
+			"TEST",
+			"\\t",
+			"app.ihi.org",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Test.htm",
+					"settings":
+					{
+						"buffer_size": 1526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								636,
+								636
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/Grid2.js",
+					"settings":
+					{
+						"buffer_size": 4230,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1351,
+								1351
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 74.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/HexagonTools.js",
+					"settings":
+					{
+						"buffer_size": 6781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3955,
+								3955
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1479.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 100.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 94.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true
+}
